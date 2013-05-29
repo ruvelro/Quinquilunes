@@ -1,0 +1,9 @@
+Changelog
+
+ beta 3		Función repartir para Windows y Linux.
+ beta 2.1.1	Corregidos 30 warnings de compilación.
+ beta 2.1 	Corregido segmentation fault de la muerte, un par de warnings y 
+ 		añadido generador de aleatoriedad real basada en hardware.
+ beta 2.0.1	corregidos 6 warnings de compilación y añadidos booleanos.
+ beta 2		Corregidos varios fallos, ordenar el código, intrucciones y menú.
+ beta 1		El juego es jugable!
